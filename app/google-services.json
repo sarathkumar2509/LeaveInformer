@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "962305573831",
+    "firebase_url": "https://leave-informer-6237c.firebaseio.com",
+    "project_id": "leave-informer-6237c",
+    "storage_bucket": "leave-informer-6237c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962305573831:android:6ec0ee36c254494f2dcfe2",
+        "android_client_info": {
+          "package_name": "com.example.leaveinformer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962305573831-jfv6roe93tu0v77s80o6sdui35d4fg9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.leaveinformer",
+            "certificate_hash": "93804ddf32352a1ed0dbf3f567fa75aa8b4b5904"
+          }
+        },
+        {
+          "client_id": "962305573831-ldij1ji14djjm1u64a09a5qq2otiui88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb_MW5XAzKSwoX6MnHPRFGZH9YjquNc1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962305573831-ldij1ji14djjm1u64a09a5qq2otiui88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
